@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeff-suen
-- 👀 I’m interested in basketball🏀, reading📖 and hiking🌲.
 - 🌱 Graduate student from USC, studying Spatial Data Science
+- 👀 I’m interested in basketball🏀, reading📖 and hiking🌲.
 - 📫 How to reach me: DM me or email ssunjeffery@hotmail.com/shujusun@usc.edu
 
 <!---
